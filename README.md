@@ -1,4 +1,4 @@
-## Hola, soy Raúl Soto
+## Olá, sou Raúl Soto
 actualmente estoy trabajando en proyectos con HTML y CSS 
 
 <div align="center">
